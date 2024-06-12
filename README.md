@@ -1,6 +1,4 @@
-# Music-streaming-platform-Spotify-
-This repository is focused in the software modeling final proyect
-# Course Project - Music Streaming Platform
+# Course Project - Music Streaming Platform - Spotify
 
 This project is a course example to create a backend system _using object-oriented design_, _design patterns_ and some _good code practices_ in order to provide a __RESTful API__ with different services related to music, podcasts and it is author in a comfortable platform.
 
