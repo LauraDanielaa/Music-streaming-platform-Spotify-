@@ -1,10 +1,10 @@
 # Course Project - Music Streaming Platform - Spotify
 
-This project is a course example to create a backend system _using object-oriented design_, _design patterns_ and some _good code practices_ in order to provide a __RESTful API__ with different services related to music, podcasts and it is author in a comfortable platform.
+we developed a music playback website with some functionalities and certain similarities to one of the most known platforms worldwide, Spotify, in which several users with free or subscribed accounts can listen to music. To achieve this and to have a good realization and structure of the software we took into account patterns, antipatterns, code smells, solid principles and crude operations.
 
 ## Business model
 
-This is a music streaming platform where users can login from a web platform to listen to music, podcast, follow favorite artists and singers, save music and podcast and make playlist 
+This is a music streaming platform where users with free or subscribed accounts can listen to music can login from a web platform to listen to music, podcast, follow favorite artists and singers, save music and podcast and make playlist 
 
 ### Business rules 
 - Songs may not be longer that 10 minutes 
