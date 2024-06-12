@@ -4,12 +4,17 @@ we developed a music playback website with some functionalities and certain simi
 
 ## Business model
 
-This is a music streaming platform where users with free or subscribed accounts can listen to music can login from a web platform to listen to music, podcast, follow favorite artists and singers, save music and podcast and make playlist 
+You have to access a music playback page where users log in by means of a login, in which their contact information is registered and stored in a database. On this music site users can have a free account or a subscription account. Subscription account users have additional features that a free user does not have, such as playing music without ads, being able to rewind songs and being able to shuffle music in a playlist. 
+If a user wants to be an artist there has to be a settings menu in which he can be an artist. He will have to add his data and upload an album with songs so that he can be considered as an artist. 
 
 ### Business rules 
-- Songs may not be longer that 10 minutes 
-- To login you need to have a username and a password 
-- There can not be repeated user names
+- Songs may not be longer that 5 minutes 
+- You want a person who wants to enter the music platform to have two options, a log in or a sign up.
+- If the person indicates that he/she wants to log in because he/she already has a registered account, the system verifies that the account has been registered before. 
+- If the person indicates to register the system saves the data provided by the user. 
+- There are two types of users, a free user and a subscribed user. The user becomes a subscriber when he/she makes a monthly payment to the platform, which provides certain benefits, such as listening to music without ads, returning songs and playing songs from a playlist randomly. 
+- When a user wants to become an artist he goes to a menu of options in which he indicates his artist data and has to upload an album with songs. 
+A user (no matter in which state he is) can make a playList with the songs he likes. 
   
 
 ## User Stories
